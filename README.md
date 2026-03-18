@@ -2,10 +2,8 @@
 
 ## 📌 Overview  
 ER Monitron is an **AI-powered emergency response system** that optimizes hospital dispatch decisions using **patient vitals, hospital resources, and real-time traffic data**. Built during the **NVIDIA Hackathon (Mar 2026)**.
-
-https://github.com/user-attachments/assets/8d3417f9-0e91-4363-b66c-b540a9ce2218
 ---
-
+https://github.com/user-attachments/assets/8d3417f9-0e91-4363-b66c-b540a9ce2218
 ## 🎯 Problem  
 Emergency routing often lacks real-time insight into **hospital capacity, traffic, and patient risk**, leading to delays and suboptimal decisions.
 
