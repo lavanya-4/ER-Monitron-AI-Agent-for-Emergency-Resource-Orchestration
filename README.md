@@ -5,7 +5,7 @@ ER Monitron is an **AI-powered emergency response system** that optimizes hospit
  deployed url : https://v0-er-nvidia-hackathon.vercel.app/
 ---
 
-https://github.com/user-attachments/assets/8d3417f9-0e91-4363-b66c-b540a9ce2218
+https://github.com/user-attachments/assets/378163a5-f12b-4f08-af87-6d4f871645f2
 ## 🎯 Problem  
 Emergency routing often lacks real-time insight into **hospital capacity, traffic, and patient risk**, leading to delays and suboptimal decisions.
 
